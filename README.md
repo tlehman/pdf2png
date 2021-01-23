@@ -1,13 +1,13 @@
-# pdf2jpg
+# pdf2png
 
-A command line tool to read a PDF file and output a list of JPG files.
+A command line tool to read a PDF file and output a list of PNG files.
 
 ## Usage
 
 ```
-$ pdf2jpg doc.pdf
+$ pdf2png doc.pdf
 $ ls
-doc_p1.png doc_d2.png
+doc_1.png doc_2.png
 $
 ```
 
