@@ -7,10 +7,11 @@ A command line tool to read a PDF file and output a list of JPG files.
 ```
 $ pdf2jpg doc.pdf
 $ ls
-doc_p1.jpg doc_d2.jpg
+doc_p1.png doc_d2.png
 $
 ```
 
 # Dependencies
- - [VersyPDF](https://github.com/sybrexsys/VersyPDF)
+ - [Poppler](https://poppler.freedesktop.org/)
+ - [Cairo](https://www.cairographics.org/)
  

@@ -1,1 +1,5 @@
-obj/
+pdf2png
+*dSYM
+.DS_Store
+*.swp
+*.png
