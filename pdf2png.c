@@ -3,8 +3,8 @@
  * Purpose: To read a PDF and produce a PNG file for each page.
  * License: GPLv3
  */
-#include <cairo.h>
-#include <poppler.h>
+#include <cairo/cairo.h>
+#include <poppler/glib/poppler.h>
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>

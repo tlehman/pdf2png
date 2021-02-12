@@ -2,4 +2,5 @@ pdf2png
 *dSYM
 .DS_Store
 *.swp
+*.swo
 *.png
